@@ -115,3 +115,38 @@ Random Forest feature importance was used to identify the most influential EEG f
 ---
 
 ## Project Structure
+
+├── features_raw.csv
+├── features_engineered.csv
+├── main.py
+├── plots/
+│   ├── class_balance.png
+│   ├── distributions.png
+│   ├── correlation.png
+│   ├── confusion_matrix.png
+│   ├── feature_importance.png
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
+- SciPy (signal processing)
+
+---
+
+## Future Improvements
+
+- Use real DEAP labels (valence/arousal)
+- Apply deep learning models (CNN / LSTM)
+- Perform cross-subject validation
+- Use advanced signal transforms (Wavelet Transform)
+
+---
+
+## Conclusion
+
+This project demonstrates how EEG signals can be transformed from raw time-series data into structured features and used for machine learning classification. It highlights the intersection of neuroscience, signal processing, and data science in solving real-world problems.
