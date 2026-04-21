@@ -133,7 +133,7 @@ Random Forest feature importance was used to identify the most influential EEG f
 
 ---
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 ### Class Balance
 ![Class Balance](01_class_balance.png)
@@ -146,7 +146,7 @@ Random Forest feature importance was used to identify the most influential EEG f
 
 ---
 
-## 🤖 Model Evaluation
+## Model Evaluation
 
 ### Logistic Regression Confusion Matrix
 ![Logistic Regression](04_cm_logistic_regression.png)
@@ -156,7 +156,7 @@ Random Forest feature importance was used to identify the most influential EEG f
 
 ---
 
-## ⭐ Feature Importance
+## Feature Importance
 
 ![Feature Importance](05_feature_importance.png)
 
