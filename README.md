@@ -114,20 +114,6 @@ Random Forest feature importance was used to identify the most influential EEG f
 
 ---
 
-## Project Structure
-
-├── features_raw.csv
-├── features_engineered.csv
-├── main.py
-├── plots/
-│   ├── class_balance.png
-│   ├── distributions.png
-│   ├── correlation.png
-│   ├── confusion_matrix.png
-│   ├── feature_importance.png
-
----
-
 ## Technologies Used
 
 - Python
