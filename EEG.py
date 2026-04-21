@@ -18,7 +18,7 @@ from sklearn.metrics        import (accuracy_score,
 warnings.filterwarnings("ignore")
 sns.set_style("whitegrid")
 
-DATA_PATH   = "/Users/vigneshkhajuria/Downloads/features_raw.csv"
+DATA_PATH   = "/Users/fateematasnim/Downloads/features_raw.csv"
 PLOTS_DIR   = Path("plots")
 PLOTS_DIR.mkdir(exist_ok=True)
 SAMPLE_RATE = 128
