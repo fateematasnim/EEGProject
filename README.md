@@ -147,6 +147,35 @@ Random Forest feature importance was used to identify the most influential EEG f
 
 ---
 
+## 📊 Exploratory Data Analysis
+
+### Class Balance
+![Class Balance](01_class_balance.png)
+
+### Feature Distributions
+![Distributions](02_distributions.png)
+
+### Correlation Heatmap
+![Correlation](03_correlation.png)
+
+---
+
+## 🤖 Model Evaluation
+
+### Logistic Regression Confusion Matrix
+![Logistic Regression](04_cm_logistic_regression.png)
+
+### Random Forest Confusion Matrix
+![Random Forest](04_cm_random_forest.png)
+
+---
+
+## ⭐ Feature Importance
+
+![Feature Importance](05_feature_importance.png)
+
+---
+
 ## Conclusion
 
 This project demonstrates how EEG signals can be transformed from raw time-series data into structured features and used for machine learning classification. It highlights the intersection of neuroscience, signal processing, and data science in solving real-world problems.
